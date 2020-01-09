@@ -1,3 +1,4 @@
+name: exams-preparation
 title: null
 plugins:
   - jekyll-relative-links
