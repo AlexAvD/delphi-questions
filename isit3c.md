@@ -35,7 +35,6 @@
 30. [Основополагающие условия для моделирования SOA. Преимущества внедрения архитектуры SOA.](#30-основополагающие-условия-для-моделирования-soa-преимущества-внедрения-архитектуры-soa)
 
 <a href="#вопросы" style="position: fixed; bottom: 15px; right: 15px; width: 50px; height: 50px; text-align: center; line-height: 50px; border: 1px solid #2196F3; text-decoration: none; color: #2196F3; background-color: #2196f329;">TOP</a>
-___
 
 ## Ответы.
 
